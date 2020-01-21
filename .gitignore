@@ -1,0 +1,10 @@
+node_modules
+.vscode
+index.html
+css
+img
+img-otimizadas
+js
+package-lock.json
+
+
